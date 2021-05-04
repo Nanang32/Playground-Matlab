@@ -5,19 +5,14 @@ clc
 a = 7;
 
 % vector
-b = [1 2 3 4 5 ]
-c = [ 1;2;3;4;5 ]
+b = [1 2 3 4 5 ];
+c = [ 1;2;3;4;5 ];
 
 %matrix 2x2
-d = [ 1 2 ; 3 4 ];
+d = [ 1 2 4; 3 4 8 ];
 
 %transpose mengunakan (') di comman window , mengubah nilai dari dan
 %barisatau matriks
 
 %transpose
-btran = b';
-ctran = c';
-dtran = d';
-
-%penjumlahan vector
-b' + c
+btran = b'
