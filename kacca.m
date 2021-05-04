@@ -20,4 +20,6 @@ ctran = c';
 dtran = d';
 
 %penjumlahan vector
-b' + c
+sum = b' + c
+%perkalian vektor dot
+sam = dot(b,btran)
